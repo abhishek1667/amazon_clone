@@ -2,6 +2,11 @@
 
 Welcome to the Amazon Clone website project! This project is a simple representation of an e-commerce website inspired by Amazon, built using HTML and CSS.
 
+## Project Website
+
+Explore the project live on [GitHub Pages](https://amazon-clone-010)!
+![Project Icon](website_icon.png)
+
 ## Getting Started
 
 1. Clone the repository:
