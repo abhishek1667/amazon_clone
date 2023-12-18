@@ -4,7 +4,7 @@ Welcome to the Amazon Clone website project! This project is a simple representa
 
 ## Project Website
 
-Explore the project live on [GitHub Pages](https://amazon-clone-010)!
+Explore the project live on [amazon-clone-010.onrender.com](https://amazon-clone-010.onrender.com)!
 ![Project Icon](website_icon.png)
 
 ## Getting Started
